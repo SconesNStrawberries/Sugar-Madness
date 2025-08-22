@@ -10,10 +10,10 @@
 <img width="1447" height="832" alt="image" src="https://github.com/user-attachments/assets/e5a64d5c-93fa-435b-b68d-ecdd13aede59" />
 
 
-## [WORLD HAPPINESS MAP](https://public.tableau.com/app/profile/soo.kyung.mah/viz/WorldHappinessDataMap_17557810482750/10_Color-BlindDashboard)
+## [🌍WORLD HAPPINESS MAP🥰](https://public.tableau.com/app/profile/soo.kyung.mah/viz/WorldHappinessDataMap_17557810482750/10_Color-BlindDashboard)
 <img width="895" height="763" alt="image" src="https://github.com/user-attachments/assets/15a09d34-05db-478d-a781-60daf3019196" />
 
-## [CO2 per Capita by Region](https://public.tableau.com/app/profile/soo.kyung.mah/viz/CO2PerCapitaByRegion_17557955035620/2_1#1)
+## [☁CO2 per Capita by Region🗺](https://public.tableau.com/app/profile/soo.kyung.mah/viz/CO2PerCapitaByRegion_17557955035620/2_1#1)
 <img width="998" height="782" alt="image" src="https://github.com/user-attachments/assets/b0b37355-0673-47cf-bcd1-72572d9db107" />
 
 ## 📰 SPREADSHEETS|
