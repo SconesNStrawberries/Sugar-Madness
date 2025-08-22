@@ -4,6 +4,7 @@
 
 ## Quick Link 🔍
 ### 📄 Personal Projects ⚙
+
 ## 📊 DATA VISUALIZATION|
 # [🐞Statistical ANALYSIS on BUG TYPE✨](https://public.tableau.com/app/profile/soo.kyung.mah/viz/StatisticalAnalysisonBugTypes/1)
 <img width="1447" height="832" alt="image" src="https://github.com/user-attachments/assets/e5a64d5c-93fa-435b-b68d-ecdd13aede59" />
