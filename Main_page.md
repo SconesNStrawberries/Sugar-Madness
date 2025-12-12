@@ -6,7 +6,8 @@
 ## 📊 DATA VISUALIZATION HIGHLIGHTS|
 
 # [🐞Statistical ANALYSIS on BUG TYPE✨](https://public.tableau.com/app/profile/soo.kyung.mah/viz/StatisticalAnalysisonBugTypes/1)
-<img width="4124" height="2249" alt="대시보드 1 (2)" src="https://github.com/user-attachments/assets/825f60fe-eabf-4804-92fc-44d54a6f75b8" />
+<img width="4124" height="2249" alt="대시보드 1 (3)" src="https://github.com/user-attachments/assets/06d23edd-3777-4540-8a1f-b9377ace8555" />
+
 
 
 ## [🌍WORLD HAPPINESS MAP🥰](https://public.tableau.com/app/profile/soo.kyung.mah/viz/WorldHappinessDataMap_17557810482750/10_Color-BlindDashboard)
