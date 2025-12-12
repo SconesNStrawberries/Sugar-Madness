@@ -7,11 +7,10 @@
 
 # [🐞Statistical ANALYSIS on BUG TYPE✨](https://public.tableau.com/app/profile/soo.kyung.mah/viz/StatisticalAnalysisonBugTypes/1)
 <img width="4124" height="2249" alt="대시보드 1 (2)" src="https://github.com/user-attachments/assets/825f60fe-eabf-4804-92fc-44d54a6f75b8" />
-<img width="1121" height="839" alt="10  Color-Blind Dashboard" src="https://github.com/user-attachments/assets/bb3a4d39-21ba-4dc0-92ab-d831fa50bf5d" />
 
 
 ## [🌍WORLD HAPPINESS MAP🥰](https://public.tableau.com/app/profile/soo.kyung.mah/viz/WorldHappinessDataMap_17557810482750/10_Color-BlindDashboard)
-
+<img width="1121" height="839" alt="10  Color-Blind Dashboard" src="https://github.com/user-attachments/assets/bb3a4d39-21ba-4dc0-92ab-d831fa50bf5d" />
 
 ## [☁CO2 per Capita by Region🗺](https://public.tableau.com/app/profile/soo.kyung.mah/viz/CO2PerCapitaByRegion_17557955035620/2_1#1)
 <img width="1064" height="2196" alt="시트 1" src="https://github.com/user-attachments/assets/021ca899-378e-4aa1-8bee-4009e9ee4945" />
